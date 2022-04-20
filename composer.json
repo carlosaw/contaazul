@@ -1,0 +1,15 @@
+{
+	"require:":{ 
+    "nfephp-org/nfephp": "^4.0.69"
+	},
+	"autoload":{
+		"psr-4":{
+			"Controllers\\":"Controllers/",
+			"Models\\":"Models/",
+			"Core\\":"Core/"
+		}
+	},
+	"require": {
+		"mpdf/mpdf": "^8.1"
+	}
+}

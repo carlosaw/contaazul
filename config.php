@@ -9,7 +9,7 @@ if(ENVIRONMENT == 'development') {
 	$config['dbuser'] = 'root';
 	$config['dbpass'] = '';
 } else {
-	define("BASE_URL", "http://awregulagens.com.br/contaazul/");
+	define("BASE_URL", "https://contaazul.awregulagens.com.br/");
 	$config['dbname'] = 'contaazul';
 	$config['host'] = '108.181.92.71';
 	$config['dbuser'] = 'contaazul';

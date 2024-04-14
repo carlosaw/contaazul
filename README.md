@@ -1,11 +1,11 @@
 # PHPzp
 ## Módulo 3: Projeto - Recriando o ContaAzul
 
-# Dependencies installer
-## composer install
+## Dependencies installer
+`composer install`
 
-# Db
-## phpmyadmin (contaazul)
+## Db
+### phpmyadmin (contaazul)
 
-# testar projeto (xampp php 7.4)
-## Browser (http://localhost/contaazul)
+## testar projeto (xampp php 7.4)
+### Browser (http://localhost/contaazul)

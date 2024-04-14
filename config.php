@@ -11,9 +11,9 @@ if(ENVIRONMENT == 'development') {
 } else {
 	define("BASE_URL", "http://awregulagens.com.br/contaazul/");
 	$config['dbname'] = 'contaazul';
-	$config['host'] = '172.106.0.120';
+	$config['host'] = '108.181.92.71';
 	$config['dbuser'] = 'contaazul';
-	$config['dbpass'] = 'N1e2c3a4contaazul';
+	$config['dbpass'] = 'cq9&Sw&K6#pFjrm8';
 }
 
 global $db;
